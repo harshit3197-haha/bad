@@ -2,12 +2,12 @@
 
 
 const slides = [
-  "images/1.jpeg",
-  "images/2.jpeg",
-  "images/3.jpeg",
-  "images/4.jpeg",
-  "images/5.jpeg",
-  "images/6.jpeg",
+  "1.jpeg",
+  "2.jpeg",
+  "3.jpeg",
+  "4.jpeg",
+  "5.jpeg",
+  "6.jpeg",
 ];
 
 let current = 0;
@@ -168,3 +168,4 @@ okBtn.addEventListener("click", () => {
 });
 
 render();
+
